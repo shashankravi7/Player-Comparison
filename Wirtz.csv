@@ -1,0 +1,84 @@
+﻿Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,attempted take ons,Succ,Match Report
+23-08-2024,Fri,Bundesliga,Matchweek 1,Away,W 3–2,Leverkusen,Gladbach,Y,AM,90,2,0,0,1,3,2,0,0,80,4,0,0,1.1,0.2,0.3,8,1,48,67,71.6,7,38,4,3,0,Match Report
+31-08-2024,Sat,Bundesliga,Matchweek 2,Home,L 2–3,Leverkusen,RB Leipzig,Y,AM,90,0,1,0,0,7,4,0,0,102,0,1,0,0.3,0.3,0.9,9,1,69,89,77.5,8,54,11,5,2,Match Report
+14-09-2024,Sat,Bundesliga,Matchweek 3,Away,W 4–1,Leverkusen,Hoffenheim,Y,AM,90,1,0,1,1,1,0,0,0,95,1,1,2,0.8,0,0.2,8,0,72,85,84.7,6,45,8,3,1,Match Report
+22-09-2024,Sun,Bundesliga,Matchweek 4,Home,W 4–3,Leverkusen,Wolfsburg,Y,AM,90,1,0,0,0,3,2,0,0,111,2,0,2,0.1,0.1,0.1,11,1,83,95,87.4,16,46,5,14,10,Match Report
+28-09-2024,Sat,Bundesliga,Matchweek 5,Away,D 1–1,Leverkusen,Bayern Munich,Y,AM,89,0,0,0,0,0,0,1,0,41,2,1,3,0,0,0,2,0,15,26,57.7,4,18,3,3,1,Match Report
+05-10-2024,Sat,Bundesliga,Matchweek 6,Home,D 2–2,Leverkusen,Holstein Kiel,Y,AM,90,0,0,0,0,5,2,0,0,122,1,1,1,0.2,0.2,0,8,1,87,100,87,5,80,7,10,4,Match Report
+19-10-2024,Sat,Bundesliga,Matchweek 7,Home,W 2–1,Leverkusen,Eint Frankfurt,N,"AM,FW",27,0,0,0,0,2,2,0,0,29,0,1,0,0.1,0.1,0,3,0,21,24,87.5,2,14,6,3,2,Match Report
+26-10-2024,Sat,Bundesliga,Matchweek 8,Away,D 2–2,Leverkusen,Werder Bremen,Y,AM,90,0,0,0,0,3,1,0,0,82,0,0,1,0.1,0.1,0.3,4,1,57,70,81.4,3,54,8,3,1,Match Report
+01-11-2024,Fri,Bundesliga,Matchweek 9,Home,D 0–0,Leverkusen,Stuttgart,Y,AM,90,0,0,0,0,4,1,0,0,66,1,1,0,0.3,0.3,0.6,6,0,43,55,78.2,5,44,5,7,5,Match Report
+09-11-2024,Sat,Bundesliga,Matchweek 10,Away,D 1–1,Leverkusen,Bochum,Y,AM,90,0,1,0,0,2,0,0,0,85,2,0,0,0.1,0.1,0.4,6,1,61,74,82.4,10,65,3,10,7,Match Report
+23-11-2024,Sat,Bundesliga,Matchweek 11,Home,W 5–2,Leverkusen,Heidenheim,Y,AM,76,0,1,0,0,3,2,0,0,101,0,1,2,0.1,0.1,0.2,7,1,73,93,78.5,7,68,4,8,5,Match Report
+30-11-2024,Sat,Bundesliga,Matchweek 12,Away,W 2–1,Leverkusen,Union Berlin,N,CM,32,0,1,0,0,0,0,0,0,33,0,0,2,0,0,0.2,2,1,20,28,71.4,0,14,2,2,0,Match Report
+07-12-2024,Sat,Bundesliga,Matchweek 13,Home,W 2–1,Leverkusen,St. Pauli,Y,"FW,CM",78,1,0,0,0,2,1,0,0,63,0,1,3,0.6,0.6,0,1,1,46,52,88.5,10,28,1,4,2,Match Report
+14-12-2024,Sat,Bundesliga,Matchweek 14,Away,W 2–0,Leverkusen,Augsburg,Y,"AM,FW",90,1,0,0,0,4,2,0,0,75,3,0,1,0.1,0.1,0,3,0,53,65,81.5,3,43,5,2,1,Match Report
+21-12-2024,Sat,Bundesliga,Matchweek 15,Home,W 5–1,Leverkusen,Freiburg,Y,"AM,FW",90,1,3,0,1,2,1,0,0,82,2,0,0,1,0.2,0.5,10,4,62,74,83.8,8,56,2,7,6,Match Report
+10-01-2025,Fri,Bundesliga,Matchweek 16,Away,W 3–2,Leverkusen,Dortmund,N,FW,28,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,7,11,63.6,1,11,0,1,0,Match Report
+14-01-2025,Tue,Bundesliga,Matchweek 17,Home,W 1–0,Leverkusen,Mainz 05,Y,AM,87,0,0,0,0,5,2,0,0,90,3,0,2,0.3,0.3,0.4,6,1,52,70,74.3,5,61,1,10,3,Match Report
+18-01-2025,Sat,Bundesliga,Matchweek 18,Home,W 3–1,Leverkusen,Gladbach,Y,AM,80,2,1,1,1,1,1,0,0,61,2,0,0,1.2,0.4,0.5,3,2,37,52,71.2,4,34,1,3,2,Match Report
+25-01-2025,Sat,Bundesliga,Matchweek 19,Away,D 2–2,Leverkusen,RB Leipzig,Y,AM,90,0,1,0,0,4,1,0,0,44,1,0,3,0.6,0.6,0.3,7,2,26,30,86.7,4,27,6,9,6,Match Report
+02-02-2025,Sun,Bundesliga,Matchweek 20,Home,W 3–1,Leverkusen,Hoffenheim,Y,"AM,CM",83,0,0,0,0,1,0,0,0,49,2,0,0,0.1,0.1,0.5,3,0,34,41,82.9,6,29,4,5,4,Match Report
+08-02-2025,Sat,Bundesliga,Matchweek 21,Away,D 0–0,Leverkusen,Wolfsburg,N,AM,31,0,0,0,0,1,0,0,0,25,0,0,0,0.1,0.1,0,4,0,12,17,70.6,3,14,0,5,2,Match Report
+15-02-2025,Sat,Bundesliga,Matchweek 22,Home,D 0–0,Leverkusen,Bayern Munich,Y,"FW,LM",90,0,0,0,0,4,1,0,0,75,0,0,0,0.6,0.6,0.1,6,0,39,59,66.1,5,39,2,12,6,Match Report
+22-02-2025,Sat,Bundesliga,Matchweek 23,Away,W 2–0,Leverkusen,Holstein Kiel,Y,AM,90,0,1,0,0,2,1,0,0,77,0,0,1,0.5,0.5,0.4,3,1,51,68,75,8,53,9,5,2,Match Report
+01-03-2025,Sat,Bundesliga,Matchweek 24,Away,W 4–1,Leverkusen,Eint Frankfurt,Y,AM,82,0,0,0,0,3,2,0,0,58,3,0,0,0.2,0.2,0.1,3,0,36,44,81.8,5,29,6,5,1,Match Report
+08-03-2025,Sat,Bundesliga,Matchweek 25,Home,L 0–2,Leverkusen,Werder Bremen,N,AM,13,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,3,33.3,0,2,0,0,0,Match Report
+12-04-2025,Sat,Bundesliga,Matchweek 29,Home,D 0–0,Leverkusen,Union Berlin,N,AM,34,0,0,0,0,0,0,1,0,40,1,0,0,0,0,0.2,2,0,25,35,71.4,4,22,1,1,0,Match Report
+20-04-2025,Sun,Bundesliga,Matchweek 30,Away,D 1–1,Leverkusen,St. Pauli,Y,AM,90,0,0,0,0,0,0,0,0,91,1,0,2,0,0,0.1,3,0,53,72,73.6,12,48,6,7,1,Match Report
+26-04-2025,Sat,Bundesliga,Matchweek 31,Home,W 2–0,Leverkusen,Augsburg,Y,FW,81,0,0,0,0,2,2,0,0,59,1,0,0,0.1,0.1,0.1,6,2,37,49,75.5,8,46,6,5,1,Match Report
+04-05-2025,Sun,Bundesliga,Matchweek 32,Away,D 2–2,Leverkusen,Freiburg,Y,AM,90,1,0,0,0,1,1,0,0,88,0,1,0,0,0,0,3,1,56,80,70,12,48,5,4,2,Match Report
+11-05-2025,Sun,Bundesliga,Matchweek 33,Home,L 2–4,Leverkusen,Dortmund,Y,AM,90,0,2,0,0,6,2,0,0,97,0,0,3,0.7,0.7,0.6,9,3,61,76,80.3,5,47,6,9,4,Match Report
+17-05-2025,Sat,Bundesliga,Matchweek 34,Away,D 2–2,Leverkusen,Mainz 05,Y,"LW,AM",90,0,0,0,0,3,2,1,0,56,0,1,4,0.1,0.1,0.1,2,1,33,45,73.3,0,40,4,2,1,Match Report
+19-08-2023,Sat,Bundesliga,Matchweek 1,Home,W 3–2,Leverkusen,RB Leipzig,Y,AM,74,1,0,0,0,2,2,0,0,42,0,0,1,0.4,0.4,0,2,0,25,34,73.5,3,25,5,4,1,Match Report
+26-08-2023,Sat,Bundesliga,Matchweek 2,Away,W 3–0,Leverkusen,Gladbach,Y,AM,90,0,1,0,0,1,1,0,0,95,1,0,1,0,0,1.2,14,2,61,78,78.2,14,48,5,3,1,Match Report
+02-09-2023,Sat,Bundesliga,Matchweek 3,Home,W 5–1,Leverkusen,Darmstadt 98,Y,AM,79,0,1,0,0,2,1,0,0,76,0,0,0,0.1,0.1,0.7,6,2,51,62,82.3,8,50,3,6,3,Match Report
+15-09-2023,Fri,Bundesliga,Matchweek 4,Away,D 2–2,Leverkusen,Bayern Munich,Y,AM,89,0,0,0,0,1,0,1,0,78,1,0,1,0.3,0.3,0.2,6,1,53,64,82.8,13,47,2,6,3,Match Report
+24-09-2023,Sun,Bundesliga,Matchweek 5,Home,W 4–1,Leverkusen,Heidenheim,Y,AM,70,0,0,0,0,3,1,0,0,66,2,0,1,0.3,0.3,0.1,6,0,50,56,89.3,6,45,0,2,2,Match Report
+30-09-2023,Sat,Bundesliga,Matchweek 6,Away,W 3–0,Leverkusen,Mainz 05,Y,AM,63,0,0,0,0,0,0,0,0,33,1,0,1,0,0,0,0,0,22,26,84.6,2,18,3,5,4,Match Report
+08-10-2023,Sun,Bundesliga,Matchweek 7,Home,W 3–0,Leverkusen,Köln,Y,AM,70,0,1,0,0,5,3,0,0,65,1,0,0,0.2,0.2,0.3,3,1,42,50,84,2,29,6,4,2,Match Report
+21-10-2023,Sat,Bundesliga,Matchweek 8,Away,W 2–1,Leverkusen,Wolfsburg,N,AM,31,0,0,0,0,2,0,0,0,35,0,0,0,0.1,0.1,0,1,0,26,30,86.7,6,29,2,4,3,Match Report
+29-10-2023,Sun,Bundesliga,Matchweek 9,Home,W 2–1,Leverkusen,Freiburg,Y,AM,89,1,1,0,0,3,3,0,0,69,0,1,1,0.3,0.3,0.3,7,2,49,55,89.1,5,50,7,9,3,Match Report
+04-11-2023,Sat,Bundesliga,Matchweek 10,Away,W 3–2,Leverkusen,Hoffenheim,Y,AM,89,1,0,0,0,1,1,0,0,66,0,0,0,0.5,0.5,0,2,2,46,55,83.6,5,44,3,6,3,Match Report
+12-11-2023,Sun,Bundesliga,Matchweek 11,Home,W 4–0,Leverkusen,Union Berlin,Y,AM,86,0,1,0,0,3,2,0,0,85,0,0,1,0.7,0.7,0.4,7,1,58,70,82.9,6,42,3,7,4,Match Report
+25-11-2023,Sat,Bundesliga,Matchweek 12,Away,W 3–0,Leverkusen,Werder Bremen,Y,AM,80,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0,3,0,47,52,90.4,9,39,3,8,5,Match Report
+03-12-2023,Sun,Bundesliga,Matchweek 13,Home,D 1–1,Leverkusen,Dortmund,Y,AM,90,0,0,0,0,2,1,0,0,112,1,2,1,0.1,0.1,0.2,10,0,80,99,80.8,9,60,5,7,3,Match Report
+10-12-2023,Sun,Bundesliga,Matchweek 14,Away,D 1–1,Leverkusen,Stuttgart,Y,AM,90,1,0,0,0,2,1,0,0,89,3,1,1,0.5,0.5,0,5,0,65,77,84.4,10,70,13,9,6,Match Report
+17-12-2023,Sun,Bundesliga,Matchweek 15,Home,W 3–0,Leverkusen,Eint Frankfurt,Y,AM,86,1,1,0,0,4,1,0,0,76,0,1,2,0.5,0.5,0.1,3,1,47,62,75.8,4,42,10,5,2,Match Report
+20-12-2023,Wed,Bundesliga,Matchweek 16,Home,W 4–0,Leverkusen,Bochum,Y,AM,86,0,1,0,0,1,0,0,0,78,0,0,2,0.1,0.1,0.5,6,2,56,68,82.4,8,48,3,1,1,Match Report
+13-01-2024,Sat,Bundesliga,Matchweek 17,Away,W 1–0,Leverkusen,Augsburg,N,FW,29,0,0,0,0,2,0,0,0,46,1,0,1,0.1,0.1,0,3,0,29,36,80.6,3,34,3,6,1,Match Report
+20-01-2024,Sat,Bundesliga,Matchweek 18,Away,W 3–2,Leverkusen,RB Leipzig,Y,AM,90,0,0,0,0,3,1,1,0,74,3,0,1,0.2,0.2,0.1,6,1,48,56,85.7,6,40,7,5,1,Match Report
+27-01-2024,Sat,Bundesliga,Matchweek 19,Home,D 0–0,Leverkusen,Gladbach,Y,AM,90,0,0,0,0,4,2,0,0,98,1,0,2,0.5,0.5,1,7,0,76,84,90.5,13,44,4,2,0,Match Report
+03-02-2024,Sat,Bundesliga,Matchweek 20,Away,W 2–0,Leverkusen,Darmstadt 98,Y,AM,76,0,1,0,0,2,1,0,0,77,0,0,2,0.1,0.1,0.1,6,2,57,65,87.7,5,55,8,8,5,Match Report
+10-02-2024,Sat,Bundesliga,Matchweek 21,Home,W 3–0,Leverkusen,Bayern Munich,Y,"AM,FW",89,0,0,0,0,1,0,0,0,68,1,0,3,0.1,0.1,0,5,1,45,55,81.8,6,31,3,2,1,Match Report
+17-02-2024,Sat,Bundesliga,Matchweek 22,Away,W 2–1,Leverkusen,Heidenheim,Y,AM,87,0,1,0,0,2,1,0,0,78,1,0,0,0.3,0.3,0.7,6,2,50,63,79.4,16,61,8,9,6,Match Report
+23-02-2024,Fri,Bundesliga,Matchweek 23,Home,W 2–1,Leverkusen,Mainz 05,Y,AM,89,0,1,0,0,3,0,1,0,86,0,1,2,0.1,0.1,0.1,6,2,56,73,76.7,5,50,3,7,3,Match Report
+03-03-2024,Sun,Bundesliga,Matchweek 24,Away,W 2–0,Leverkusen,Köln,Y,AM,90,0,0,0,0,4,3,0,0,83,2,0,1,0.2,0.2,0,7,0,54,69,78.3,12,43,5,5,3,Match Report
+10-03-2024,Sun,Bundesliga,Matchweek 25,Home,W 2–0,Leverkusen,Wolfsburg,Y,"AM,FW",89,1,0,0,0,3,2,0,0,114,1,0,3,0.7,0.7,0.1,7,0,86,97,88.7,6,81,3,9,5,Match Report
+17-03-2024,Sun,Bundesliga,Matchweek 26,Away,W 3–2,Leverkusen,Freiburg,Y,AM,90,1,0,0,0,2,1,0,0,100,3,1,1,0.5,0.5,0.2,3,0,66,81,81.5,7,71,1,6,3,Match Report
+30-03-2024,Sat,Bundesliga,Matchweek 27,Home,W 2–1,Leverkusen,Hoffenheim,Y,AM,90,0,0,0,0,3,1,0,0,105,2,0,2,0.2,0.2,0.4,15,1,74,90,82.2,9,66,7,5,3,Match Report
+06-04-2024,Sat,Bundesliga,Matchweek 28,Away,W 1–0,Leverkusen,Union Berlin,Y,AM,90,1,0,1,1,1,0,0,0,86,1,0,1,0.8,0.1,0.4,6,0,60,71,84.5,14,57,4,4,0,Match Report
+14-04-2024,Sun,Bundesliga,Matchweek 29,Home,W 5–0,Leverkusen,Werder Bremen,N,AM,45,3,0,0,0,5,3,0,0,42,0,2,2,0.9,0.9,0.1,3,0,25,28,89.3,4,19,3,3,1,Match Report
+21-04-2024,Sun,Bundesliga,Matchweek 30,Away,D 1–1,Leverkusen,Dortmund,N,"LM,AM",21,0,1,0,0,0,0,0,0,19,0,0,1,0,0,0.1,2,1,9,15,60,2,13,2,2,1,Match Report
+27-04-2024,Sat,Bundesliga,Matchweek 31,Home,D 2–2,Leverkusen,Stuttgart,N,AM,17,0,0,0,0,0,0,0,0,23,0,0,1,0,0,0,0,0,13,18,72.2,3,16,1,1,0,Match Report
+18-05-2024,Sat,Bundesliga,Matchweek 34,Home,W 2–1,Leverkusen,Augsburg,N,AM,28,0,0,0,0,3,1,0,0,26,1,0,0,0.2,0.2,0.2,3,0,14,16,87.5,3,17,3,2,0,Match Report
+22-01-2023,Sun,Bundesliga,Matchweek 16,Away,W 3–2,Leverkusen,Gladbach,N,FW,17,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,1,6,16.7,0,8,1,3,2,Match Report
+25-01-2023,Wed,Bundesliga,Matchweek 17,Home,W 2–0,Leverkusen,Bochum,Y,AM,71,0,1,0,0,2,1,0,0,40,0,0,0,0.2,0.2,0.2,3,1,26,29,89.7,4,27,0,3,2,Match Report
+29-01-2023,Sun,Bundesliga,Matchweek 18,Home,L 0–2,Leverkusen,Dortmund,Y,FW,69,0,0,0,0,0,0,1,0,53,4,1,0,0,0,0.3,4,0,32,42,76.2,4,29,0,4,1,Match Report
+03-02-2023,Fri,Bundesliga,Matchweek 19,Away,L 0–1,Leverkusen,Augsburg,N,"RM,RW",29,0,0,0,0,0,0,0,0,33,1,0,3,0,0,0,0,0,23,27,85.2,6,25,1,1,0,Match Report
+11-02-2023,Sat,Bundesliga,Matchweek 20,Away,W 3–1,Leverkusen,Hoffenheim,Y,FW,90,0,1,0,0,0,0,0,0,57,2,0,3,0,0,0.1,5,2,31,40,77.5,8,34,4,10,7,Match Report
+19-02-2023,Sun,Bundesliga,Matchweek 21,Home,L 2–3,Leverkusen,Mainz 05,N,AM,36,0,1,0,0,0,0,0,0,34,1,0,0,0,0,0.2,4,0,21,30,70,3,16,2,4,4,Match Report
+26-02-2023,Sun,Bundesliga,Matchweek 22,Away,D 1–1,Leverkusen,Freiburg,N,"AM,LW",45,0,0,0,0,0,0,0,0,21,3,0,1,0,0,0,1,1,9,12,75,3,12,1,1,0,Match Report
+05-03-2023,Sun,Bundesliga,Matchweek 23,Home,W 4–1,Leverkusen,Hertha BSC,Y,AM,81,0,1,0,0,0,0,0,0,75,1,0,1,0,0,0.5,7,1,46,60,76.7,5,33,5,7,3,Match Report
+19-03-2023,Sun,Bundesliga,Matchweek 25,Home,W 2–1,Leverkusen,Bayern Munich,Y,FW,83,0,0,0,0,0,0,0,0,39,1,0,0,0,0,0,0,0,16,28,57.1,1,22,1,3,1,Match Report
+01-04-2023,Sat,Bundesliga,Matchweek 26,Away,W 3–0,Leverkusen,Schalke 04,Y,FW,90,1,0,0,0,2,1,0,0,51,0,0,0,0.4,0.4,0.6,11,2,36,43,83.7,8,30,4,8,5,Match Report
+08-04-2023,Sat,Bundesliga,Matchweek 27,Home,W 3–1,Leverkusen,Eint Frankfurt,Y,AM,78,0,2,0,0,1,1,0,0,37,1,0,2,0.1,0.1,1,5,1,19,29,65.5,5,26,3,6,4,Match Report
+16-04-2023,Sun,Bundesliga,Matchweek 28,Away,D 0–0,Leverkusen,Wolfsburg,N,FW,29,0,0,0,0,0,0,1,0,25,1,0,0,0,0,0,1,0,14,21,66.7,3,10,1,1,0,Match Report
+29-04-2023,Sat,Bundesliga,Matchweek 30,Away,D 0–0,Leverkusen,Union Berlin,Y,LW,90,0,0,0,0,0,0,0,0,85,1,0,1,0,0,0.1,4,0,58,71,81.7,8,68,5,11,6,Match Report
+05-05-2023,Fri,Bundesliga,Matchweek 31,Home,L 1–2,Leverkusen,Köln,Y,"LW,RM",90,0,0,0,0,1,0,0,0,82,2,0,2,0,0,0.2,7,0,52,70,74.3,8,58,1,8,5,Match Report
+14-05-2023,Sun,Bundesliga,Matchweek 32,Away,D 1–1,Leverkusen,Stuttgart,N,LM,31,0,0,0,0,0,0,1,0,28,0,0,0,0,0,0.2,4,0,19,26,73.1,5,19,0,2,2,Match Report
+21-05-2023,Sun,Bundesliga,Matchweek 33,Home,D 2–2,Leverkusen,Gladbach,Y,AM,71,0,0,0,0,0,0,0,0,51,0,0,1,0,0,0.5,4,0,33,42,78.6,4,31,3,7,4,Match Report
+27-05-2023,Sat,Bundesliga,Matchweek 34,Away,L 0–3,Leverkusen,Bochum,Y,"RW,CM,LM",90,0,0,0,0,1,1,1,0,67,0,0,1,0,0,0.1,4,0,37,58,63.8,5,39,4,6,2,Match Report
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,5813,,,,,,,,,,,,,,,,,,,4238,,,,,414,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,65.61500086,,,,,6.409771202,,
